@@ -1,0 +1,6 @@
+EXPORTS
+    ContentGetSupportedField
+    ContentGetValue
+    ContentGetValueW
+    ContentSetDefaultParams
+    ContentPluginUnloading
