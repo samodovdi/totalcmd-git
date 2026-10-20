@@ -1,5 +1,5 @@
-﻿totalcmd-git 1.0 for Total Commander
-====================================
+﻿totalcmd-git for Total Commander
+================================
 
 What posh-git is for PowerShell, totalcmd-git is for Total Commander: git
 status in the command line prompt, the path shown to the left of the

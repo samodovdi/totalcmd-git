@@ -1,6 +1,6 @@
 [plugininstall]
-description=totalcmd-git 1.0: posh-git style git status in the command line prompt
+description=totalcmd-git @VERSION@: posh-git style git status in the command line prompt
 type=wdx
 file=totalcmd-git.wdx
 defaultdir=totalcmd-git
-version=1.0
+version=@VERSION@

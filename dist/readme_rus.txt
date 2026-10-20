@@ -1,5 +1,5 @@
-﻿totalcmd-git 1.0 для Total Commander
-====================================
+﻿totalcmd-git для Total Commander
+================================
 
 То же, что posh-git для PowerShell, только для Total Commander: статус git
 в строке с путём слева от командной строки, над кнопками F-клавиш:
